@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://everyonecandance.eu.pn/" />
+<title>First_Test</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">First_Test</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Everyone Can Dance</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Why.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>exact:Why Dance?</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/History.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>The History of this Class</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Theory.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Dance Theory</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Beat.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>The Beat</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Move.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Body Lead</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Special.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Dance Stories</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Faq.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>FAQs</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Resources.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Dance Resources</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Credit.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Credits</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Flier.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Everyone Can Dance Fliers</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/Contact.php</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Contact</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
